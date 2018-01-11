@@ -1,0 +1,3 @@
+from Reloj import *
+
+clock()
