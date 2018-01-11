@@ -1,3 +1,0 @@
-from Reloj import *
-
-clock()

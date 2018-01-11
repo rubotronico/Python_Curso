@@ -1,3 +1,0 @@
-import saludos
-
-saludos.Saludo()
